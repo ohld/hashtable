@@ -12,6 +12,7 @@
 #include <stdio.h>
 #include <stdint.h>
 #include <assert.h>
+#include "logger/logger.h"
 
 /* Private methods */
 
@@ -131,10 +132,10 @@ uint32_t hashtable_add_pair (hashtable_t *hashtable, hashtable_pair_t pair) {
 
 	//i is first found hash of the key.
 	uint32_t i = hashtable_get_hash_from_pair (hashtable, &pair);
-	uint32_t hashtbl_size = hashtable_size (hashtable);
 
-  /* // PART FOR DIFFERENT HASHTABLE
-  ////looking for first empty place to put new pair.
+  /* // PART FOR DIFFERENT HASHTABLE IMPLEMENTATION
+  //looking for first empty place to put new pair.
+  uint32_t hashtbl_size = hashtable_size (hashtable);
 	while ((array[i].key != NULL) && (strcmp((array[i]).key, pair.key) != 0)) {
 		i += DEFAULT_STEPPING;
 		if (i == hashtbl_size) i = 0;
