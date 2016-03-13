@@ -13,6 +13,7 @@
 
 #define SIZE_EXCEEDED ((uint32_t)(-1))
 #define TABLE_NOT_CRTD (((uint32_t)(-1)) - 1)
+#define BAD_ARGUMENT (((uint32_t)(-1)) - 2)
 #define DEFAULT_STEPPING 1
 
 typedef struct {

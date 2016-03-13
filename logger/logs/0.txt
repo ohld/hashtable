@@ -1,0 +1,74 @@
+Initializing logger
+Creating new table
+  size: 300
+  Table 4190139312 was created.
+Add by key value
+  to hashtable: 4190139312
+  with key: ("l[siV)"/h;.CL8`zuY_op2FH+!3?tbS%PX@"sKlz!W9o
+  value: MG'{But;n$EIl0gX1Pw
+Creating table pair: key -> value
+  nkey: ("l[siV)"/h;.CL8`zuY_op2FH+!3?tbS%PX@"sKlz!W9o
+  nvalue: MG'{But;n$EIl0gX1Pw
+  pair created:
+  key:("l[siV)"/h;.CL8`zuY_op2FH+!3?tbS%PX@"sKlz!W9o
+  value:MG'{But;n$EIl0gX1Pw
+Check if pair is good
+Add pair to: 4190139312
+count property for: 4190139312
+size property for: 4190139312
+Get hash from pair
+Check if pair is good
+  from hashtable: 4190139312
+Get hash from key
+  hashtable: 4190139312
+  key: ("l[siV)"/h;.CL8`zuY_op2FH+!3?tbS%PX@"sKlz!W9o
+size property for: 4190139312
+  pair added at  111
+  to table: 4190139312
+Add by key value
+  to hashtable: 4190139312
+  with key: MG'{But;n$EIl0gX1Pw
+  value: bQsAcgTa8
+Creating table pair: key -> value
+  nkey: MG'{But;n$EIl0gX1Pw
+  nvalue: bQsAcgTa8
+  pair created:
+  key:MG'{But;n$EIl0gX1Pw
+  value:bQsAcgTa8
+Check if pair is good
+Add pair to: 4190139312
+count property for: 4190139312
+size property for: 4190139312
+Get hash from pair
+Check if pair is good
+  from hashtable: 4190139312
+Get hash from key
+  hashtable: 4190139312
+  key: MG'{But;n$EIl0gX1Pw
+size property for: 4190139312
+  pair added at  208
+  to table: 4190139312
+Add by key value
+  to hashtable: 4190139312
+  with key: bQsAcgTa8
+  value: n!V3d2n>`q[Rn<=<Ar(lCjY3:-jd2rvlqI'p']5v
+Creating table pair: key -> value
+  nkey: bQsAcgTa8
+  nvalue: n!V3d2n>`q[Rn<=<Ar(lCjY3:-jd2rvlqI'p']5v
+  pair created:
+  key:bQsAcgTa8
+  value:n!V3d2n>`q[Rn<=<Ar(lCjY3:-jd2rvlqI'p']5v
+Check if pair is good
+Add pair to: 4190139312
+count property for: 4190139312
+size property for: 4190139312
+Get hash from pair
+Check if pair is good
+  from hashtable: 4190139312
+Get hash from key
+  hashtable: 4190139312
+  key: bQsAcgTa8
+size property for: 4190139312
+  pair added at  61
+  to table: 4190139312
+Add by key value

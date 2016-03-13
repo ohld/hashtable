@@ -10,18 +10,22 @@
 
 #include <stdlib.h>
 
-#define BUFFERSIZE 4048
+#define BUFFERSIZE 2048
+#define MSGSIZE 256
 
 typedef struct {
        char *data;
-       uint32_t pointer;
        uint32_t size;
 } buffer_t;
 
 typedef struct {
+        char *log_file_name;
         buffer_t *buffer;
-        uint32_t log_file_number;
 } logger_t;
+
+logger_t *logger;
+char *msg;
+
 
 /* Constructor & Destructor */
 logger_t *logger_init();
